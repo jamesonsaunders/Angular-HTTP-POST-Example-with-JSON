@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP POST Example with JSON](https://youtu.be/74X18AoZ2Gk).
 
-[![Angular HTTP POST Example with JSON](https://img.youtube.com/vi/74X18AoZ2Gk/0.jpg)](https://youtu.be/74X18AoZ2Gk)
+[![Angular HTTP POST Example with JSON](https://img.youtube.com/vi/74X18AoZ2Gk/mqdefault.jpg)](https://youtu.be/74X18AoZ2Gk)
 
 A simple example of how to perform a POST request over HTTP in angular to send some JSON data to a server and display the response body.
 
