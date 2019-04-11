@@ -1,6 +1,6 @@
 # Angular HTTP POST Example with JSON
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP POST Example with JSON](https://youtu.be/74X18AoZ2Gk).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP POST Example with JSON](https://youtu.be/74X18AoZ2Gk) as well as the blog article [Angular HTTP POST Example with JSON](https://blog.jamibot.com/angular-http-post).
 
 [![Angular HTTP POST Example with JSON](https://img.youtube.com/vi/74X18AoZ2Gk/maxresdefault.jpg)](https://youtu.be/74X18AoZ2Gk)
 
