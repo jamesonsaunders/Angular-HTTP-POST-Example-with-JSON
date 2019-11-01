@@ -1,12 +1,12 @@
 # Angular HTTP POST Example with JSON
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular HTTP POST Example with JSON](https://youtu.be/74X18AoZ2Gk) as well as the blog article [Angular HTTP POST Example with JSON](https://blog.jamibot.com/angular-http-post).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Angular HTTP POST Example with JSON](https://youtu.be/74X18AoZ2Gk) as well as the blog article [Angular HTTP POST Example with JSON](https://blog.jamibot.com/angular-http-post).
 
 [![Angular HTTP POST Example with JSON](https://img.youtube.com/vi/74X18AoZ2Gk/maxresdefault.jpg)](https://youtu.be/74X18AoZ2Gk)
 
 A simple example of how to perform a POST request over HTTP in angular to send some JSON data to a server and display the response body.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for more web & mobile development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for more web & mobile development videos.
 
 ## Installation
 
